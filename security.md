@@ -43,7 +43,7 @@ In short: adblock for windows cleans up your PC and fixes small problems that bu
 ## Requirements
 
 | **Component** | **Requirement** |
-| --- | --- | --- |
+| --- | --- |
 | **Operating system** | Windows 10 or 11 (64-bit) |
 | **RAM** | 2 GB or more |
 | **Free disk space** | 100 MB |
